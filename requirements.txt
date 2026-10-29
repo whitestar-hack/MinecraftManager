@@ -1,2 +1,3 @@
 discord.py
 python-aternos
+lxml_html_clean
