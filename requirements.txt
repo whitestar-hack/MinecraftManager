@@ -1,5 +1,5 @@
-lxml>=5.0.0
 discord.py
-cloudscraper
-Js2Py
+lxml>=5.2.0
+cloudscraper==1.2.71
+Js2Py==0.74
 python-aternos --no-deps
