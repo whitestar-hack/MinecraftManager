@@ -1,3 +1,5 @@
-discord.py
 lxml>=5.0.0
-python-aternos --no-build-isolation
+discord.py
+cloudscraper
+Js2Py
+python-aternos --no-deps
